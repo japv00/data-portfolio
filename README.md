@@ -6,7 +6,7 @@ Bienvenido al portafolio de proyectos. Este repositorio reúne algunos de los pr
 
 A continuación se encuentran los enlaces a cada uno de los proyectos realizados:
 
-- [Ventas Regionales](https://app.powerbi.com/view?r=eyJrIjoiZDFiNTYwYTEtZTBjOS00OGY4LThhNDktYTZlODdjYmQ2ZjdlIiwidCI6ImRmZTIxMGExLWVjYTYtNDQ1Yi05YzcxLWE2ODNiZDE0NTQyOCJ9)
+- [Ventas Regionales](https://github.com/japv00/data-portfolio/blob/main/VentasRegionales/ventasregionales.md)
 
 - [Proyectos Globales - DBO](#)  
   (una breve descripción si lo deseas)
