@@ -1,8 +1,9 @@
-# Ventas Regionales - Dashboard
+# Ventas Regionales
 
-### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZDFiNTYwYTEtZTBjOS00OGY4LThhNDktYTZlODdjYmQ2ZjdlIiwidCI6ImRmZTIxMGExLWVjYTYtNDQ1Yi05YzcxLWE2ODNiZDE0NTQyOCJ9
+### Dashboard Power BI
+https://app.powerbi.com/view?r=eyJrIjoiZDFiNTYwYTEtZTBjOS00OGY4LThhNDktYTZlODdjYmQ2ZjdlIiwidCI6ImRmZTIxMGExLWVjYTYtNDQ1Yi05YzcxLWE2ODNiZDE0NTQyOCJ9
 
-## Problem Statement
+## Descripción del proyecto
 
 Se proporcionó una base de datos en formato CSV que contenía información sobre empresas y los ingresos de ventas. Algunos ejemplos de la información: 
 
