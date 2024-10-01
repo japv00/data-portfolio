@@ -6,7 +6,7 @@ Bienvenido al portafolio de proyectos. Este repositorio reúne algunos de los pr
 
 A continuación se encuentran los enlaces a cada uno de los proyectos realizados (en construcción):
 
-- [Ventas Regionales](https://github.com/japv00/data-portfolio/blob/main/VentasRegionales/ventasregionales.md)
+- Ventas Regionales. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/VentasRegionales/ventasregionales.md)
 
   Tecnologías usadas: Power BI, Powerflows, DAX.
 
