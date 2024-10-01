@@ -9,13 +9,13 @@ A continuación se encuentran los enlaces a cada uno de los proyectos realizados
 - [Ventas Regionales](https://github.com/japv00/data-portfolio/blob/main/VentasRegionales/ventasregionales.md)
 
 - [Proyectos Globales - DBO](#)  
-  (una breve descripción si lo deseas)
+  (una breve descripción)
 
 - [Proyectos - Stream](#)  
-  (una breve descripción si lo deseas)
+  (una breve descripción)
 
 - [Ventas multiempresa - Odoo](#)  
-  (una breve descripción si lo deseas)
+  (una breve descripción)
 
 ## Contacto
 
