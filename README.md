@@ -7,21 +7,10 @@ Bienvenido al portafolio de proyectos. Este repositorio reúne algunos de los pr
 A continuación se encuentran los enlaces a cada uno de los proyectos realizados (en construcción):
 
 - Emprea de Seguros. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Seguros/seguros.md)
-
-  Tecnologías usadas: Power BI, T-SQL, DAX.
-
 - Ventas Regionales. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/VentasRegionales/ventasregionales.md)
-
-  Tecnologías usadas: Power BI, Powerflows, DAX.
-
 - [Proyectos Globales - DBO](#)  
-  (una breve descripción)
-
 - [Proyectos - Stream](#)  
-  (una breve descripción)
-
 - [Ventas multiempresa - Odoo](#)  
-  (una breve descripción)
   
 ## Proyectos de SSIS
 En construcción
