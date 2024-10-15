@@ -7,11 +7,16 @@ Bienvenido al portafolio de proyectos. Este repositorio reúne algunos de los pr
 
 A continuación se encuentran los enlaces a cada uno de los proyectos realizados (en construcción):
 
-- Emprea de Seguros. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Seguros/seguros.md)
+- Empresa de Seguros. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Seguros/seguros.md)
 - Ventas Regionales. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/VentasRegionales/ventasregionales.md)
 - Proyectos Globales - DBO. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/DBO/dbo.md)  
 - Proyectos - Brew Tech. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Brewtech/bt.md)
 - Ventas multiempresa - Odoo. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Comercializadora/com.md)  
+- Vivienda.
+-- Vivienda económica RUV. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Vivienda/economica.md) 
+-- Prototipo APP REGISTRA RUV. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Vivienda/registra.md) 
+-- Supervisión de obra. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Vivienda/factec.md) 
+
   
 ## Proyectos de SSIS
 En construcción
