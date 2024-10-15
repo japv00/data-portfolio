@@ -26,9 +26,9 @@ Información sobre el proyecto como: Nombre del proyecto, canal, estatus, fase y
 
 Gartner
 
-![1](https://github.com/user-attachments/assets/1d90e9a0-98e8-4069-948c-0a96152fb174)
+![1](https://github.com/user-attachments/assets/c52507be-8be1-4321-87c5-2b534f754d34)
 
-![2](https://github.com/user-attachments/assets/c4359075-34fe-4096-ab7c-0fcc69a1c601)
+![2](https://github.com/user-attachments/assets/ca2fd68a-56e8-4f38-b61b-3b3fb8c37268)
 
 ## Dashboard Link
 #### https://app.powerbi.com/view?r=eyJrIjoiYWMwMTM2NGEtNTNmZS00MTkyLWFjZTItNWUxZmJkNTY4ODczIiwidCI6ImRmZTIxMGExLWVjYTYtNDQ1Yi05YzcxLWE2ODNiZDE0NTQyOCJ9&pageName=ReportSectioncd615c6ea6aa1ee40ede
