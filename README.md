@@ -1,7 +1,7 @@
 # Portafolio de Proyectos
 
 Bienvenido al portafolio de proyectos. Este repositorio reúne algunos de los proyectos de data y dashboards que he desarrollado, mostrando las habilidades y conocimientos adquiridos en el ámbito de la visualización de datos.
-Nota: Algunas secciones aún se encuentran en construcción.
+#### Nota: Algunas secciones aún se encuentran en construcción.
 
 ## Proyectos de Power BI
 
