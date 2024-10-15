@@ -1,7 +1,5 @@
 # Operación de empresa de seguros - Dashboard
 
-### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMGJlNTQ0OTEtMDU1Mi00NjY1LTkyNDUtMzQ4NDhjOTViYjFlIiwidCI6ImRmZTIxMGExLWVjYTYtNDQ1Yi05YzcxLWE2ODNiZDE0NTQyOCJ9&pageName=6de03a858150400821ac
-
 ## Problem Statement
 
 Con base en la base de datos de la empresa, la solicitud fue poder visualizar información de las partes más importantes del flujo operativo como : 
@@ -33,3 +31,7 @@ Información de emisiones correctas, emisiones rechazadas, cancelaciones y sinie
 ![3](https://github.com/user-attachments/assets/234ffa39-7288-4889-8d49-48b81450b7c5)
 ![4](https://github.com/user-attachments/assets/da989b3b-73ae-4a1d-b327-dde1ece144d1)
 ![5](https://github.com/user-attachments/assets/671c0bd3-1223-44dc-a7a3-ca2148e8cd2c)
+
+
+## Dashboard Link
+#### https://app.powerbi.com/view?r=eyJrIjoiMGJlNTQ0OTEtMDU1Mi00NjY1LTkyNDUtMzQ4NDhjOTViYjFlIiwidCI6ImRmZTIxMGExLWVjYTYtNDQ1Yi05YzcxLWE2ODNiZDE0NTQyOCJ9&pageName=6de03a858150400821ac
