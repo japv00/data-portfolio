@@ -18,6 +18,11 @@ Información sobre el proyecto como: Nombre del proyecto, lider del proyecto, pa
   - Tooltips personalizados en algunas visualizaciones.
 
 - **Screenshots**:  
+  
+Algunas transformaciones en PowerQuery  
+
+![0](https://github.com/user-attachments/assets/985a90c9-8bdd-492c-a390-b892033e8570)
+
 Gartner
 
 ![1](https://github.com/user-attachments/assets/dacf49ae-17ac-4485-b747-e078a5303bf3)
