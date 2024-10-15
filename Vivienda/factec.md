@@ -6,7 +6,7 @@ Se diseñaron páneles a petición del cliente para la visualización de la info
 
 ## Solución Implementada
 
-- **Resumen General**
+- **Resumen General**  
 Información sobre el flujo del proceso de supervision de obra. Métricas sobre el volumen de registros, información demografica (estado, municipio), avance de obra, SOFOMES involucradas y tablas de referencia para ubicar rápidamente algún crédito o vivienda específicos.
 
 - **Funcionalidades**: 
