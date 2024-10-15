@@ -1,6 +1,6 @@
 # Operación de empresa de seguros - Dashboard
 
-### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMGJlNTQ0OTEtMDU1Mi00NjY1LTkyNDUtMzQ4NDhjOTViYjFlIiwidCI6ImRmZTIxMGExLWVjYTYtNDQ1Yi05YzcxLWE2ODNiZDE0NTQyOCJ9
+### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMGJlNTQ0OTEtMDU1Mi00NjY1LTkyNDUtMzQ4NDhjOTViYjFlIiwidCI6ImRmZTIxMGExLWVjYTYtNDQ1Yi05YzcxLWE2ODNiZDE0NTQyOCJ9&pageName=6de03a858150400821ac
 
 ## Problem Statement
 
