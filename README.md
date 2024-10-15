@@ -11,7 +11,7 @@ A continuación se encuentran los enlaces a cada uno de los proyectos realizados
 - Ventas Regionales. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/VentasRegionales/ventasregionales.md)
 - Proyectos Globales - DBO. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/DBO/dbo.md)  
 - Proyectos - Brew Tech. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Brewtech/bt.md)
-- Ventas multiempresa - Odoo. [[ir a proyecto]]()  
+- Ventas multiempresa - Odoo. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Comercializadora/com.md)  
   
 ## Proyectos de SSIS
 En construcción
