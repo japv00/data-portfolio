@@ -13,9 +13,10 @@ A continuación se encuentran los enlaces a cada uno de los proyectos realizados
 - Proyectos - Brew Tech. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Brewtech/bt.md)
 - Ventas multiempresa - Odoo. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Comercializadora/com.md)  
 - Vivienda.
--- Vivienda económica RUV. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Vivienda/economica.md) 
--- Prototipo APP REGISTRA RUV. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Vivienda/registra.md) 
--- Supervisión de obra. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Vivienda/factec.md) 
+  - Vivienda económica RUV. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Vivienda/economica.md) 
+  - Prototipo APP REGISTRA RUV. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Vivienda/registra.md)
+  - Supervisión de obra. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Vivienda/factec.md) 
+- Consumo AZURE. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Azure/ruv_cost.md)  
 
   
 ## Proyectos de SSIS
