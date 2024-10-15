@@ -9,9 +9,9 @@ A continuación se encuentran los enlaces a cada uno de los proyectos realizados
 
 - Emprea de Seguros. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Seguros/seguros.md)
 - Ventas Regionales. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/VentasRegionales/ventasregionales.md)
-- [Proyectos Globales - DBO](#)  
-- [Proyectos - Stream](#)  
-- [Ventas multiempresa - Odoo](#)  
+- Proyectos Globales - DBO. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/DBO/dbo.md)  
+- Proyectos - Brew Tech. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Brewtech/bt.md)
+- Ventas multiempresa - Odoo. [[ir a proyecto]]()  
   
 ## Proyectos de SSIS
 En construcción
