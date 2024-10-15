@@ -16,7 +16,6 @@ Se desarrolló la siguiente solución:
 - **Resumen General**
 Información sobre el proyecto como: Nombre del proyecto, canal, estatus, fase y avance.
 
-
 - **Funcionalidades**: 
   - Visualización de tipo Gartner y otras personalizadas.
   - Tooltips personalizados.
