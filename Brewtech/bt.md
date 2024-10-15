@@ -7,10 +7,10 @@ Se hizo un rediseño del proyecto de DBO para otra unidad de negocio. El objetiv
 ## Solución Implementada
 
 Se desarrolló la siguiente solución:
--- Sitio de SharePoint para centralizar el proceso de actualización de la información de los proyectos.
--- Lista de SharePoint (en lugar de archivo de Excel) como repositorio final para el Dashboard.
--- Formularios de Microsoft Forms embebidos en el sitio de SharePoint. Mediante estos los encargados actualizan la información que necesiten, o crean un nuevo Proyecto para dar seguimiento.
--- Flujo de Power Automate. Flujos para crear o actualizar proyectos, que toman las respuestas del formulario e impactan la lista de SharePoint.
+  -Sitio de SharePoint para centralizar el proceso de actualización de la información de los proyectos.
+  -Lista de SharePoint (en lugar de archivo de Excel) como repositorio final para el Dashboard.
+  -Formularios de Microsoft Forms embebidos en el sitio de SharePoint. Mediante estos los encargados actualizan la información que necesiten, o crean un nuevo Proyecto para dar seguimiento.
+  -Flujo de Power Automate. Flujos para crear o actualizar proyectos, que toman las respuestas del formulario e impactan la lista de SharePoint.
 
 
 - **Resumen General**
