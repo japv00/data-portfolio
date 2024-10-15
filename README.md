@@ -5,7 +5,7 @@ Bienvenido al portafolio de proyectos. Este repositorio reúne algunos de los pr
 
 ## Proyectos de Power BI
 
-A continuación se encuentran los enlaces a cada uno de los proyectos realizados (en construcción):
+A continuación se encuentran los enlaces a cada uno de los proyectos realizados (lista no exhaustiva):
 
 - Empresa de Seguros. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/Seguros/seguros.md)
 - Ventas Regionales. [[ir a proyecto]](https://github.com/japv00/data-portfolio/blob/main/VentasRegionales/ventasregionales.md)
